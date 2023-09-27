@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "rust-connection-xmtp",
+    "slug": "rust-connection-xmtp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "rust-connection-xmtp"
+}
